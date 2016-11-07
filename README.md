@@ -44,3 +44,6 @@ Additional attributes:
 - `decimals` - count of numbers after dot. Default 0;
 - `before` - text before the value. Default: none;
 - `after` - text after the value. Default: none;
+
+## Demo ##
+[JSFiddle](https://jsfiddle.net/DmitriyBorisov/ahub4sce/)
