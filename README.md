@@ -5,6 +5,11 @@ Lightweight plugin for AngularJS without any dependencies for smooth changing th
 
 ## Installation ##
 
+NPM:
+```
+npm install angular-countup --save
+```
+
 Include the file to your page after `angular`, like so:
 
 ```html
