@@ -1,4 +1,4 @@
-# angular-countUp #
+# angular-countup #
 
 Lightweight plugin for AngularJS 1.5.x without any dependencies for smooth changing the scope numbers
 
